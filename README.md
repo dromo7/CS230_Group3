@@ -1,2 +1,2 @@
-# CS230_Group3
-The repository that we'll use for Project 4 and throughout the semester.
+# CS230_Group3_Project-4
+The GitHub repository that we'll use for Project 4.
